@@ -10,6 +10,9 @@ The aim of this project is to Build on top of https://www.pythonanywhere.com/ AP
 # My story
 Recently I encountered a project which required me to tap into some private features of PA to effectively manage and make admin duties damn easy for my client. I'm looking to collaborate with you as we make this into a module that can turn your wish into an Executed PA task.
 
+# token_creater.py
+is a daily task which creates cookies that are utilized by our API. It runs a real firefox selenium browser session to harvest our target.
+
 # Send feature requests to simiremarkable@gmail.com
 
-# To support the work or show intetrest, Please star the repo.
+# To support the work or show interest, Please star the repo.
