@@ -2,7 +2,7 @@
 PA enables you to "Host, run, and code Python in the cloud". And YES, they do that pretty well!
 
 #  $ whoami
-I'm Edison Clieve, I automate web tasks (by building bots).
+I'm Edison, I automate web tasks (by building bots).
 
 # Why are we here?
 The aim of this project is to Build on top of https://www.pythonanywhere.com/ API to avail some unreleased features for people working with lots of consoles and tasks
